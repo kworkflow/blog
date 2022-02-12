@@ -8,13 +8,13 @@ learning more about the kernel was following the public mailing list of the
 subsystem that I was interested in. A few months after I started contributing
 to the kernel, I became a maintainer and had to follow patches related to the
 driver that I was maintaining. A few weeks ago, I also became one of the
-maintainers of the display component under the amdgpu driver. Unfortunately, I
-am aware that I'm doing poor work as a maintainer, which I blame my lack of
-review workflow. Don't get me wrong, I was trying... for example, I set up my
-neomutt to help me with that, but unfortunately, I could not use it anymore due
-to external forces, which broke my already inefficient review process. Anyway,
-I'm uncomfortable about that since I want to be a better maintainer, but I
-realize that I need to fix my workflow.
+maintainers of the display component under the amdgpu driver. Yeah... I am
+aware that I'm doing poor work as a maintainer, which  I blame the lack of
+structure in my review flow. Don't get me wrong, I was trying... for example, I
+set up my neomutt to help me with that, but unfortunately, I could not use it
+anymore due to external forces, which broke my already inefficient review
+process. Anyway, I'm uncomfortable about that since I want to be a better
+maintainer, but I realize that I need to fix my workflow.
 
 With these ideas in mind, I have to admit:
 
@@ -30,8 +30,9 @@ I use kw every day, I thought I could include patch reviews and some
 maintainer's tasks as part of my workflow with kw. Fortunately, this can be
 possible thanks to the lore API introduced to the Linux kernel mailing list.
 Finally, I want something that makes my life easier and with as little overhead
-as possible, and a simple UI would be perfect for that; fortunately, I became
-aware of a super elegant, simple, and stable tool named dialog!
+as possible, and a simple UI would be perfect for that; luckily, I became aware
+of an elegant (at least from my perspective), simple, and stable tool named
+dialog!
 
 Since all pieces were in the table, I made a super simple interface prototype
 and shared it with [Melissa Wen](https://melissawen.github.io/), who
@@ -49,4 +50,13 @@ demo of this little prototype:
 
 That's it for this post. Stay tuned for new kw updates.
 
+# What is next?
 
+1. Complete our prototype
+ * Complete all windows that we planned in this issue:
+   <https://gitlab.freedesktop.org/siqueira/lore-prototype/-/issues/4>
+ * Squash as many bugs as possible
+2. Integrate it to kw
+ * PR 1: Introduce liblore file with massive code coverage.
+ * PR 2: Introduce dialog lib.
+ * PR 3: Implement windows
