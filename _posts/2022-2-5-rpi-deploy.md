@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Preparing for adding support for RaspberryPi 4 deploy
+author: Rodrigo Siqueira
+author_website: https://siqueira.tech
+date: 2022-02-05
+tags: [kw, raspberrypi, rpi, kw deploy]
 ---
 
 For a long time, I'm aiming to expand kw to provide good support for non-x86

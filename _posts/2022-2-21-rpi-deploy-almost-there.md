@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Add support for Raspberry PI
+author: Rodrigo Siqueira
+author_website: https://siqueira.tech
+date: 2022-02-21
+tags: [kw, raspberry pi, rpi, kw deploy]
 ---
 
 Since January, I have been refactoring and improving the deploy code in order

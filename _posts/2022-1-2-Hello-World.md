@@ -1,6 +1,10 @@
 ---
 layout: post
 title: A Hello world from kw blog
+author: Rodrigo Siqueira
+author_website: https://siqueira.tech
+date: 2022-01-02
+tags: [kw]
 ---
 
 For a long time, I have been considering creating a blog for the kworflow

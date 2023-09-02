@@ -3,6 +3,8 @@ layout: post
 title: GSoC23 Final Report
 date: 2023-08-26 08:00:00 -0300
 categories: [gsoc23]
+author: David Tadokoro
+author_website: https://davidbtadokoro.tech
 tags: [gsoc23, kw, kw patch-hub, lore, linux]
 ---
 

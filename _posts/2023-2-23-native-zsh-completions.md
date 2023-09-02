@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Adding support for native Zsh completions
+date: 2023-02-23
+author: David Tadokoro
+author_website: https://davidbtadokoro.tech
+tags: [gsoc23, kw, zsh, autocomplete]
 ---
 
 Being a somewhat new user of Zsh - made the transition from Bash around 2

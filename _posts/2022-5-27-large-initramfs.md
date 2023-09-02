@@ -1,6 +1,10 @@
 ---
 layout: post
 title: How to fix Kernel boot "error, out of memory"
+author: Rodrigo Siqueira
+author_website: https://siqueira.tech
+date: 2022-05-27
+tags: [kw, kw deploy, initramfs]
 ---
 
 I usually have my dev system and a test machine to validate my changes for

@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Lore Interface
+author: Rodrigo Siqueira
+author_website: https://siqueira.tech
+date: 2022-02-12
+tags: [kw, lore, kw patch-hub]
 ---
 
 When I started contributing to Linux Kernel, one of my favorite tasks for
