@@ -1,0 +1,4 @@
+https://davidbtadokoro.tech/feed.xml
+https://siqueira.tech/feed.xml
+https://flusp.ime.usp.br/feed-en.xml
+https://melissawen.github.io/feed.xml
