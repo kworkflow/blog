@@ -10,7 +10,7 @@ layout: default
   {% else %}
   {{ page.author }},
   {% endif %}
-  published on {{ page.date }}
+  published on {{ page.date | date: "%B %e, %Y" }}
   <hr>
 
   <div class="entry">
