@@ -3,6 +3,8 @@ layout: post
 title: Introducing SQLite3 to kw
 date: 2023-08-22 23:00:00 -0300
 categories: [software engineering]
+author: David Tadokoro
+author_website: https://davidbtadokoro.tech
 tags: [kw, database, sqlite3]
 ---
 
